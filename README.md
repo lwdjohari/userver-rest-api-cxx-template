@@ -1,2 +1,2 @@
-# userver-rest-api-cxx-template
+# Userver Rest Api Microservice CXX Project Template
 CMake project template for creating Rest API Microservice using modern C++ userver framework.
